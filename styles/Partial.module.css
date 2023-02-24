@@ -1,0 +1,25 @@
+.layout_main {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  padding: 0 30px;
+  height: 100%;
+
+}
+
+.footer_main {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar_main {
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+.navbar_menu_main {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
